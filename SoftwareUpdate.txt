@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
